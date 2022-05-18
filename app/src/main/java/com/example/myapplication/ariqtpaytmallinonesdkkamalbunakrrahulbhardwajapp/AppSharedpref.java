@@ -11,6 +11,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+comment 
 public class AppSharedpref {
 
     private SharedPreferences preferences, servicePreference, loginpreference, paymenturlresponse;
