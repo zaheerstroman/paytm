@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <!--        <domain includeSubdomains="true">androidtutorial.blueappsoftware.com</domain>-->
+        <!--        <domain includeSubdomains="true">ariqt.com</domain>-->
+        <!--        <domain includeSubdomains="true">https://www.ariqt.com</domain>-->
+        <!--        <domain includeSubdomains="true">http://192.168.43.71/paytm-all-in-one-completecode/paytmallinone_init_transaction/paytmallinone/index.php</domain>-->
+        <!--        <domain includeSubdomains="true">http://192.168.43.71/paytm-all-in-one-completecode/paytmallinone_init_transaction/paytmallinone/init_Transaction_Purna.php</domain>-->
+        <!--     <domain includeSubdomains="true">http://192.168.43.71/paytm-all-in-one-completecode/paytmallinone_init_transaction/paytmallinone/process_Transaction_Purna.php</domain>-->
+
+        <domain includeSubdomains="true">http://10.13.7.38/paytm-all-in-one-completecode_Production/paytmallinone_init_transaction/paytmallinone/init_Transaction.php</domain>
+        <!--     <domain includeSubdomains="true">http://10.13.7.38/paytm-all-in-one-completecode/paytmallinone_init_transaction/paytmallinone/process_Transaction_Purna.php</domain>-->
+
+    </domain-config>
+</network-security-config>
